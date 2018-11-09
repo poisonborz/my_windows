@@ -1,9 +1,9 @@
 
 
-This list is a constantly updated Windows toollist inspired by [nikitavoloboev](https://github.com/nikitavoloboev/my-mac-os/) and [Awesome-Windows](https://github.com/Awesome-Windows/Awesome).
-This is by no means a complete workflow list, I tried to list apps here that have an easily understandable value and might not be widely known (except for programs that have recommendable extensions/customization that warrants them to list here anyway)
+This list is a Windows tool/utility list inspired by [nikitavoloboev](https://github.com/nikitavoloboev/my-mac-os/) and [Awesome-Windows](https://github.com/Awesome-Windows/Awesome).
+I tried to list apps here that have an easily understandable value and might not be widely known (except for programs that have recommendable extensions/customization that warrants them to list here anyway)
 
-This list exists partly to give ideas and inspiration (if it gives only a few ideas to a couple of visitors, it was already worth compiling) and also as a shout out to all the great devs who make life better through their creations.
+The goal is to spark productivity ideas and inspiration and also as a shout out to all the great devs who make life better through their creations.
 
 # Development (front-end/web)
 
