@@ -1,13 +1,12 @@
+This list is a Windows tool/utility recommendation inspired by [nikitavoloboev](https://github.com/nikitavoloboev/my-mac-os/) and [Awesome-Windows](https://github.com/Awesome-Windows/Awesome).
+I tried to list apps here that have an easily understandable value and might not be widely known (except for programs that have recommendable extensions/customization that warrants their place here)
 
-
-This list is a Windows tool/utility list inspired by [nikitavoloboev](https://github.com/nikitavoloboev/my-mac-os/) and [Awesome-Windows](https://github.com/Awesome-Windows/Awesome).
-I tried to list apps here that have an easily understandable value and might not be widely known (except for programs that have recommendable extensions/customization that warrants them to list here anyway)
-
-The goal is to spark productivity ideas and inspiration and also as a shout out to all the great devs who make life better through their creations.
+The goal is to spark productivity ideas and inspiration and also to shout out to all the great devs who make life better through their creations.
 
 # Development (front-end/web)
 
 ### [IntelliJ IDEA/Webstorm](https://www.jetbrains.com/webstorm/)
+
 <table>
   <tr>
     <td width="300"><img width="300" src="images/intellij.jpg"></td>
@@ -19,8 +18,8 @@ The goal is to spark productivity ideas and inspiration and also as a shout out 
   </tr>
 </table>
 
-
 ### [VS Code](https://code.visualstudio.com/)
+
 <table>
   <tr>
     <td width="300"><img width="300" src="images/vscode.jpg"></td>
@@ -32,15 +31,17 @@ The goal is to spark productivity ideas and inspiration and also as a shout out 
 </table>
 
 ### [Sublime](https://www.sublimetext.com/)
+
 A great editor in itself, nowadays I mostly use and recommend it for txt/cfg editing and general notepad replacement - because of its lightning-fast speed (VSCode/Atom is not fast enough, other native apps like Notepad++ don't have the features/customizability). I recommend the BracketHighlighter, ColorHighlighter, FileBrowser, SublimeOnSaveBuild packages.
- <br/>
+<br/>
 <em><small>Although it's not free, it is evaluated free with a minor nag. To remove that, license is a one-time 58€.</small></em>
 
-
 ### [Emmet](https://emmet.io/)
+
 Not a standalone app but a plugin (available in every major code/text editor/language), but it's so ubiquitous in my daily work that it deserves a mention. It basically allows to expand code snippets with the tab key. Eg. in html div.yellow>a< tab > becomes < div class="yellow" >< a href="" >< /a >< /div >, li or < tab > becomes height: in a css file. Needless to say, it speeds things up greatly - it supports custom snippets as well.
 
 ### [Insomnia](https://insomnia.rest/)
+
 <table>
   <tr>
     <td width="300"><img width="300" src="images/insomnia.jpg"></td>
@@ -50,6 +51,7 @@ Not a standalone app but a plugin (available in every major code/text editor/lan
  </table>
 
 ### [Conemu](https://conemu.github.io/)
+
 <table>
   <tr>
     <td width="300"><img width="300" src="images/conemu.jpg"></td>
@@ -60,12 +62,15 @@ Not a standalone app but a plugin (available in every major code/text editor/lan
 </table>
 
 ### [anywhere](https://www.npmjs.com/package/anywhere)
+
 Not an app but a node utility, this spawns a static file server anywhere. Handy to locally open front-end test projects.
 
 ### [Inkscape](https://inkscape.org/en/)
+
 Most devs tend to use full-on suites like Illustrator to edit SVG/vector data, but for most tasks, Inkscape is more than capable for that. Especially the node editing interface rivals that of larger suites.
 
 ### [ManicTime](https://www.manictime.com/)
+
 <table>
   <tr>
     <td width="300"><img width="300" src="images/manictime.png"></td>
@@ -76,14 +81,17 @@ Most devs tend to use full-on suites like Illustrator to edit SVG/vector data, b
 </table>
 
 ### [F.lux](https://justgetflux.com/)
+
 Not strictly a dev app, but staring at the screen for days this helps a lot, by shifting the screen to red with sun. Although this was recently implemented natively by macOS/Windows F.lux has adjustable colour profiles, whitelist scenarios and shortcuts.
 
 ### [SVG explorer extension](https://svgextension.codeplex.com/)
+
 Websites and apps use SVGs almost as abundantly as any other bitmap images nowadays, but handling them is not as straightforward. For example, you can preview and browse through a pile of images easily, but scanning through SVGs was a lot harder. Until this extension - it enables bitmap-like thumbnail preview in any Windows explorer app.
 
 # Utilities
 
 ### [Rambox](http://rambox.pro/)
+
 <table>
   <tr>
     <td width="300"><img width="300" src="images/rambox.jpg"></td>
@@ -94,6 +102,7 @@ Websites and apps use SVGs almost as abundantly as any other bitmap images nowad
 </table>
 
 ### [Directory Opus](https://www.gpsoft.com.au/)
+
 <table>
   <tr>
     <td width="300"><img width="300" src="images/diropus.jpg"></td>
@@ -104,47 +113,82 @@ Websites and apps use SVGs almost as abundantly as any other bitmap images nowad
 </table>
 
 ### [SyncBackPro](https://www.2brightsparks.com/syncback/sbpro.html)
+
 An absolute must-have backup tool for anyone wanting to protect his data. While Windows and seemingly every disk company ships own backup solutions, this one is way better. You can channel different sources in backup profiles and schedule it with Task Scheduler. Besides local backup it supports network/ftp/cloud providers, an awesome UI that lets you fine tune your target/destination as needed, and a lot more.
 <br/>
 <em><small>Price is $20-$55 but it's needless to say that having a safe mind about your data is paramount.</small></em>
 
 ### [7-Zip](http://www.7-zip.org/)
+
 An archive manager that is far beyond the native zip handler and other (mostly shareware) utilities. It's really fast, and has customizeable right click menu options.
 
 ### [MonitorSwitcher](https://sourceforge.net/projects/monitorswitcher/)
+
 A must-have utility for anyone working with multiple displays. This command-line tool (gui supplied) can save and load monitor configurations - so switching from display to projector/TV, or between dual/single screen is just a keypress away.
 
 ### [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+
 A great replacement to the native task manager (ctrl-shift-esc). It doesn't require admin rights, has a handy process/window finder, and a number of other enhancements.
 
-### [Launchy](https://www.launchy.net/) / [Keypirinha](http://keypirinha.com/)
-Task launchers are a bit off since Windows has a similar feature in the Start menu, but having a more powerful/configurable option can greatly enhance your workflow. Launchy is an older, and rather simplistic app, while Keypirinha is an all-rounder with advanced scripting and web-enhanced capabilities.
+### [Keypirinha](http://keypirinha.com/)
+
+<table>
+  <tr>
+    <td width="300"><img width="300" src="images/keypirinha.jpg"></td>
+    <td>
+    Task launchers on Windows became rare animals since Windows has a similar feature in the Start menu, but having a more powerful/configurable option can greatly enhance your workflow. Among the number of contenders, Keypirinha is the most well-rounded contender with powerful functions, a number of useful packages (including keyworded web search and local file lookup)
+    </td>
+  </tr>
+</table>
 
 ### [Atomic Alarm Clock](http://www.drive-software.com/atomicalarmclock.html)
-A slick windows clock that displays themed, customizeable time/date instead of the fugly default tray clock.
+
+<table>
+  <tr>
+    <td width="120"><img  src="images/atomicalarmclock.jpg"></td>
+    <td>
+    A slick windows clock that displays themed, customizeable time/date instead of the fugly default tray clock. Sadly does not work with a desktop scale beyond 150%.
+    </td>
+  </tr>
+</table>
 
 ### [Autohotkey](https://autohotkey.com/)
-A wonderful scripting tool and platform, which I mostly use to automate tasks. It can perform timed operations, monitor and manipulate windows/processes, emulate keystrokes or mouse clicks, it can even generate native Windows UI itself. A quick script-to-standalone exe compiler is supplied for portability. The platform is powerful enough that full apps and utilities are built upon it.
+
+A wonderful scripting tool and platform, which I mostly use to automate tasks (eg. press elements of the UI when the app has started - great way to minimize apps launched on the start if they don't have this functionality). It can perform timed operations, monitor and manipulate windows/processes, emulate keystrokes or mouse clicks, it can even generate native Windows UI itself. A quick script-to-standalone exe compiler is supplied for portability. The platform is powerful enough that full apps and utilities are built upon it.
 
 ### [Lockhunter](https://lockhunter.com/)
+
 Surely everyone had the issue when a file or folder couldn't be deleted because some other process still locked it. Lockhunter provides a right-click menu to easily unlock, and also move/rename/delete such files quickly.
 
 ### [Rainlendar](http://www.rainlendar.net/cms/index.php)
-A wonderful (albeit old-school) desktop calendar. It syncs with virtually any calendar service, and displays a really neat pinnable, color-coded overview of your events.
+
+<table>
+  <tr>
+    <td width="220"><img  src="images/rainlendar.jpg"></td>
+    <td>
+   A wonderful (albeit old-school) desktop calendar. It syncs with virtually any calendar service, and displays a really neat pinnable, color-coded overview of your events. I [published](http://www.rainlendar.net/cms/index.php?option=com_kunena&Itemid=42&func=view&catid=2&id=25528#25528) an easy method to have it both as a desktop-pinned calendar, and as a toolbar calendar in parallel, greatly improving the experience.
+    </td>
+  </tr>
+</table>
 
 ### [Notepad Replacer](https://www.binaryfortress.com/NotepadReplacer/)
+
 A small Windows utility that allows to replace Windows's default notepad.exe association with any text editor. This is a lot easier than manually editing associations.
 
 ### [Rainmeter](https://www.rainmeter.net/)
-An easy widget platform that you can use to load the wealth of widgets already available, or build your own. While some may find using such tools oldschool, its a great power to have a quick overview of your system or anything you want to monitor.
+
+An easy widget platform that you can use to load the wealth of widgets already available, or build your own. While some may find using such tools oldschool, its a great power to have a quick overview of your system or anything you want to monitor. Check out my versatile but simple [skin](https://github.com/poisonborz/pbmeters).
 
 ### [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+
 I hope the reader doesn't use Adobe Acrobat Reader for opening PDF files - and I always felt strange to use a web browser like Edge/Chrome for this task. Sumatra is a really fast and simple reader. For more features like form filling I also recommend Foxit Reader.
 
 ### [VeraCrypt](https://veracrypt.codeplex.com/)
+
 A must-have for privacy-minded users. Being the successor of TrueCrypt, it provides file or system-level disk encryption. While like all OSes, Windows also supports system-level encryption, VeraCrypt's solution is more customizeable. It also allows for quickly loadable secure file containers (which can be loaded as drives), which are really handy if you use a shared/company PC.
 
 ### [Scanner](http://steffengerlach.de/freeware/)
+
 <table>
   <tr>
     <td width="300"><img width="300" src="images/scanner.jpg"></td>
@@ -155,19 +199,24 @@ A must-have for privacy-minded users. Being the successor of TrueCrypt, it provi
 </table>
 
 ### [TaskbarTweaker](http://rammichael.com/7-taskbar-tweaker)
+
 As it should be apparent, I really like customizing things, and the Windows taskbar is also something I like cleaned down. TT allows to add some really handy features - hiding the Start menu (you can still open it with the button), middle click action on items, mouse wheel actions and more.
 
 ### [psubst](https://github.com/ildar-shaimordanov/psubst)
+
 You can easily mount (subst) folders permanently as drives in Windows with this command line tool.
 
 ### [Caffe1ne](http://www.tucows.com/preview/428032/Caffe1ne)
+
 A handy utility that moves the mouse every few minutes - making easy to temporarily disable the automatic desktop lock/screen power-off.
 
 # Media
+
 [Winamp](http://forums.winamp.com/showthread.php?t=374929)
 This legendary audio player is still the best standalone mp3 file/podcast player there is. I recommend revisiting it, as it still is super speedy, and has great plugins. I recommend [Enhancer](https://winampplugins.co.uk/enhancer/), a DSP plugin that makes all your music sound richer and deeper without without distorting it.
 
 ### [Foobar2000](http://www.foobar2000.org/)
+
 <table>
   <tr>
     <td width="300"><img width="300" src="images/foobar.jpg"></td>
@@ -178,24 +227,27 @@ This legendary audio player is still the best standalone mp3 file/podcast player
 </table>
 
 ### [IrfanView](http://www.irfanview.com/)
+
 Still the best image viewer for Windows. While the interface is rather archaic, it supports almost all file formats there is, has a great batch editor and basic color correction tools, and even painting tools for markup.
 
 ### [Avidemux](http://avidemux.sourceforge.net/)
+
 For quickly cutting and converting video files, Avidemux is a very handy tool. For more complex video composing, Shotcut is recommended (it did not made this list because of stability issues - however the autosave system greatly )
 
 ### [MPC-BE](https://sourceforge.net/projects/mpcbe/) + [madvr](http://madvr.com/) + [LAVFilters](https://github.com/Nevcairiel/LAVFilters/releases) + [xysubfilter](https://github.com/Cyberbeing/xy-VSFilter/releases)
+
 MPC-BE is a video player, while the others are filters and renderers outputting video at much better quality with post-processing. While it is easier to throw every video file at [VLC](https://videolan.org), it's worth to setting it up as it produces sharper superior and enhanced images with GPU processing - which is visible especially for low-res videos on a larger, eg. 4k screens.
 
 # System
+
 ### [AOMEI Partition Assistant](https://www.disk-partition.com/free-partition-manager.html)
+
 A great free hard disk partition manager, that rivals paid alternatives.
 
 ### [Prime 95](https://www.mersenne.org/download/) + [OCCTPT](www.ocbase.com)
+
 These are the prime choices for stress testing CPU/GPU stability, also great to test the loudness of a desktop PC build.
 
 ### [Rapid Environment Editor](https://www.rapidee.com)
+
 A great alternative environment variable editor, REE makes tasks like PATH editing a much better experience.
-
-
-
-
